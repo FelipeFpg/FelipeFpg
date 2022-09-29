@@ -1,4 +1,4 @@
-# ✵ Hi! My name is Felipe.
+# ✵ Hi! My name is Felipe
 _✵ I have 16 years_
 
 _✵ I really like Volleyball_
