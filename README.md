@@ -1,16 +1,18 @@
-### Hi there 👋
+# ✵ Hi! My name is Felipe.
+_✵ I have 16 years_
 
-<!--
-**FelipeFpg/FelipeFpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_✵ I really like Volleyball_
 
-Here are some ideas to get you started:
+_✵ I'm recently learning the language of JavaScript and Scratch_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_✵ I am interested in becoming a professional volleyball player_
+
+_✵ My email is felipefernandes123098@gmail.com_
+
+<div align="center">
+  <a href="https://github.com/Felipe-Guedes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Guedes&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Guedes&layout=compact&langs_count=7&theme=great-gatsby"/>
+</div>
+ 
+ 
