@@ -15,4 +15,4 @@ _✵ My email is felipefernandes123098@gmail.com_
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Guedes&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
  
- 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
